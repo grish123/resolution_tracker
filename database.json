@@ -1,0 +1,53 @@
+{
+  "Users" : {
+    "saksharhere" : {
+      "Resolutions" : {
+        "saksharhere_1" : {
+          "Description" : "Drink water 6 glass",
+          "Logs" : {
+            "201802021200" : {
+              "Status" : "Yes"
+            }
+          }
+        }
+      }
+    },
+    "prateekbhansali" : {
+      "Resolutions" : {
+        "prateekbhansali_1" : {
+          "Description" : "Drink water 6 glass",
+          "Logs" : {
+            "201802021200" : {
+              "Status" : "Yes"
+            }
+          }
+        }
+      }
+    },
+    "grish619" : {
+      "Resolutions" : {
+        "grish619_1" : {
+          "Description" : "Drink water 6 glass",
+          "Logs" : {
+            "201802021200" : {
+              "Status" : "Yes"
+            }
+          }
+        }
+      }
+    },
+    "samarth" : {
+      "Resolutions" : {
+        "samarth_1" : {
+          "Description" : "Drink water 2 glass",
+          "Logs" : {
+            "201802021200" : {
+              "Status" : "Yes"
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
